@@ -12,8 +12,8 @@ const languages = [
 const colors = [
   "#ed1111", // (Portugués)
   "#f98704", // (Inglés)
-  "#e8da13", // (Francés)
-  "#9bef0a", // (Italiano)
+  "#b7ad29", // (Francés)
+  "#79ba07", // (Italiano)
   "#05e6f7", // (Chino)
   "#4facfd", // (Ruso)
   "#870bf3", // (Árabe)
